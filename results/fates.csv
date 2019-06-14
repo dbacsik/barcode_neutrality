@@ -1,0 +1,91 @@
+,fate,count,sample
+0,valid barcode,584344,3_Rescue_bcHA_HA
+1,unparseable barcode,186646,3_Rescue_bcHA_HA
+2,low quality barcode,38730,3_Rescue_bcHA_HA
+0,valid barcode,659719,5_Rescue_bcHAbcNA_HA
+1,unparseable barcode,90788,5_Rescue_bcHAbcNA_HA
+2,low quality barcode,45015,5_Rescue_bcHAbcNA_HA
+0,valid barcode,521311,6_Passage1_bcHA_HA
+1,unparseable barcode,177662,6_Passage1_bcHA_HA
+2,low quality barcode,34060,6_Passage1_bcHA_HA
+0,valid barcode,501809,7_Passage1_bcHA_HA
+1,unparseable barcode,169226,7_Passage1_bcHA_HA
+2,low quality barcode,32590,7_Passage1_bcHA_HA
+0,valid barcode,610935,10_Passage1_bcHAbcNA_HA
+1,unparseable barcode,83695,10_Passage1_bcHAbcNA_HA
+2,low quality barcode,40496,10_Passage1_bcHAbcNA_HA
+0,valid barcode,633314,11_Passage1_bcHAbcNA_HA
+1,unparseable barcode,84821,11_Passage1_bcHAbcNA_HA
+2,low quality barcode,44797,11_Passage1_bcHAbcNA_HA
+0,valid barcode,564798,12_Passage2_bcHA_HA
+1,unparseable barcode,186319,12_Passage2_bcHA_HA
+2,low quality barcode,37810,12_Passage2_bcHA_HA
+0,valid barcode,540040,13_Passage2_bcHA_HA
+1,unparseable barcode,175269,13_Passage2_bcHA_HA
+2,low quality barcode,34895,13_Passage2_bcHA_HA
+0,valid barcode,611267,16_Passage2_bcHAbcNA_HA
+1,unparseable barcode,75095,16_Passage2_bcHAbcNA_HA
+2,low quality barcode,40592,16_Passage2_bcHAbcNA_HA
+0,valid barcode,542145,17_Passage2_bcHAbcNA_HA
+1,unparseable barcode,77530,17_Passage2_bcHAbcNA_HA
+2,low quality barcode,37648,17_Passage2_bcHAbcNA_HA
+0,valid barcode,556237,18_Passage3_bcHA_HA
+1,unparseable barcode,159510,18_Passage3_bcHA_HA
+2,low quality barcode,36387,18_Passage3_bcHA_HA
+0,valid barcode,555547,19_Passage3_bcHA_HA
+1,unparseable barcode,188066,19_Passage3_bcHA_HA
+2,low quality barcode,35964,19_Passage3_bcHA_HA
+0,valid barcode,614198,22_Passage3_bcHAbcNA_HA
+1,unparseable barcode,78170,22_Passage3_bcHAbcNA_HA
+2,low quality barcode,41846,22_Passage3_bcHAbcNA_HA
+0,valid barcode,635542,23_Passage3_bcHAbcNA_HA
+1,unparseable barcode,98956,23_Passage3_bcHAbcNA_HA
+2,low quality barcode,43712,23_Passage3_bcHAbcNA_HA
+0,valid barcode,709186,1_Plasmid_bcHA_HA
+1,unparseable barcode,112459,1_Plasmid_bcHA_HA
+2,low quality barcode,49124,1_Plasmid_bcHA_HA
+0,valid barcode,746694,4_Rescue_bcNA_NA
+1,low quality barcode,43361,4_Rescue_bcNA_NA
+2,unparseable barcode,18142,4_Rescue_bcNA_NA
+0,valid barcode,721503,5_Rescue_bcHAbcNA_NA
+1,low quality barcode,41691,5_Rescue_bcHAbcNA_NA
+2,unparseable barcode,20094,5_Rescue_bcHAbcNA_NA
+0,valid barcode,651256,8_Passage1_bcNA_NA
+1,low quality barcode,37386,8_Passage1_bcNA_NA
+2,unparseable barcode,11838,8_Passage1_bcNA_NA
+0,valid barcode,689964,9_Passage1_bcNA_NA
+1,low quality barcode,41054,9_Passage1_bcNA_NA
+2,unparseable barcode,20529,9_Passage1_bcNA_NA
+0,valid barcode,767723,10_Passage1_bcHAbcNA_NA
+1,low quality barcode,45099,10_Passage1_bcHAbcNA_NA
+2,unparseable barcode,24949,10_Passage1_bcHAbcNA_NA
+0,valid barcode,627950,11_Passage1_bcHAbcNA_NA
+1,low quality barcode,36145,11_Passage1_bcHAbcNA_NA
+2,unparseable barcode,13490,11_Passage1_bcHAbcNA_NA
+0,valid barcode,739565,14_Passage2_bcNA_NA
+1,low quality barcode,43096,14_Passage2_bcNA_NA
+2,unparseable barcode,16751,14_Passage2_bcNA_NA
+0,valid barcode,919892,15_Passage2_bcNA_NA
+1,low quality barcode,54056,15_Passage2_bcNA_NA
+2,unparseable barcode,27201,15_Passage2_bcNA_NA
+0,valid barcode,705533,16_Passage2_bcHAbcNA_NA
+1,low quality barcode,40978,16_Passage2_bcHAbcNA_NA
+2,unparseable barcode,18269,16_Passage2_bcHAbcNA_NA
+0,valid barcode,823285,17_Passage2_bcHAbcNA_NA
+1,low quality barcode,49318,17_Passage2_bcHAbcNA_NA
+2,unparseable barcode,20518,17_Passage2_bcHAbcNA_NA
+0,valid barcode,744781,20_Passage3_bcNA_NA
+1,low quality barcode,41950,20_Passage3_bcNA_NA
+2,unparseable barcode,19465,20_Passage3_bcNA_NA
+0,valid barcode,618132,21_Passage3_bcNA_NA
+1,low quality barcode,36052,21_Passage3_bcNA_NA
+2,unparseable barcode,14523,21_Passage3_bcNA_NA
+0,valid barcode,716208,22_Passage3_bcHAbcNA_NA
+1,low quality barcode,40069,22_Passage3_bcHAbcNA_NA
+2,unparseable barcode,17342,22_Passage3_bcHAbcNA_NA
+0,valid barcode,768499,23_Passage3_bcHAbcNA_NA
+1,low quality barcode,45782,23_Passage3_bcHAbcNA_NA
+2,unparseable barcode,18818,23_Passage3_bcHAbcNA_NA
+0,valid barcode,717532,2_Plasmid_bcNA_NA
+1,low quality barcode,42907,2_Plasmid_bcNA_NA
+2,unparseable barcode,14934,2_Plasmid_bcNA_NA
