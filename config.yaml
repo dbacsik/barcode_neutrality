@@ -3,6 +3,7 @@
 # file giving information on samples
 fastqfolder: /shared/ngs/illumina/bloom_lab/190610_M04866_0257_000000000-CH79J/Data/Intensities/BaseCalls/
 sampledata: sampledata.csv
+metadata: metadata.csv
 
 # parameters for calling viral barcodes from Illumina data, which are assumed as:
 # [R2 bind site (optional)] - [upstream] - [viral barcode] - [R1 bind site]
